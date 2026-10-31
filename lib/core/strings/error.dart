@@ -1,0 +1,1 @@
+const NO_INTERNET_CONNCETION = "No internet conncetion" ;
